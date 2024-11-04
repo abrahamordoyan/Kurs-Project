@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|f:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\sportrecords\\sportrecords\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\athlet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\athlet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\athlet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\athlet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\athletprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\athletprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\athletprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\athletprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addtournament.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addtournament.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addteam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addteam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addsport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addsport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addachievementtype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addachievementtype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addachievementdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addachievementdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\addachievement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\addachievement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\adduser.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\adduser.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\dduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\dduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\adminwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\adminwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\basemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\basemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\sportrecords\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{11D619CA-E1B3-459B-8E59-C1D751F35616}|SportRecords\\SportRecords.csproj|solutionrelative:sportrecords\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\User.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\User.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\User.xaml",
+              "RelativeToolTip": "SportRecords\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:00:59.201Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Athlet.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Athlet.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\Athlet.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Athlet.xaml",
+              "RelativeToolTip": "SportRecords\\Athlet.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:00:31.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\User.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\User.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\User.xaml.cs",
+              "RelativeToolTip": "SportRecords\\User.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwG0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:09:17.555Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Athlet.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Athlet.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\Athlet.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Athlet.xaml.cs",
+              "RelativeToolTip": "SportRecords\\Athlet.xaml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwKYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:08:52.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AthletProfile.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AthletProfile.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AthletProfile.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AthletProfile.xaml",
+              "RelativeToolTip": "SportRecords\\AthletProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T09:06:49.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AthletProfile.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AthletProfile.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\AthletProfile.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AthletProfile.xaml.cs",
+              "RelativeToolTip": "SportRecords\\AthletProfile.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwE8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:08:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTournament.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddTournament.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddTournament.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddTournament.xaml",
+              "RelativeToolTip": "SportRecords\\AddTournament.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:15:39.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTeam.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddTeam.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddTeam.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddTeam.xaml",
+              "RelativeToolTip": "SportRecords\\AddTeam.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:15:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddSport.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddSport.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddSport.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddSport.xaml",
+              "RelativeToolTip": "SportRecords\\AddSport.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:15:26.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddRole.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddRole.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddRole.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddRole.xaml",
+              "RelativeToolTip": "SportRecords\\AddRole.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:15:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddAchievementType.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievementType.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddAchievementType.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievementType.xaml",
+              "RelativeToolTip": "SportRecords\\AddAchievementType.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:14:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddAchievementDialog.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievementDialog.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddAchievementDialog.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievementDialog.xaml",
+              "RelativeToolTip": "SportRecords\\AddAchievementDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:13:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddAchievement.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievement.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddAchievement.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddAchievement.xaml",
+              "RelativeToolTip": "SportRecords\\AddAchievement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T11:13:42.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ddUser.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\ddUser.cs",
+              "RelativeDocumentMoniker": "SportRecords\\ddUser.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\ddUser.cs",
+              "RelativeToolTip": "SportRecords\\ddUser.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:47:34.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\AddUser.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddUser.xaml.cs",
+              "RelativeToolTip": "SportRecords\\AddUser.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:37:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddUser.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AddUser.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AddUser.xaml",
+              "RelativeToolTip": "SportRecords\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T11:49:26.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\MainWindow.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\MainWindow.xaml",
+              "RelativeToolTip": "SportRecords\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T12:16:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\AdminWindow.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AdminWindow.xaml",
+              "RelativeToolTip": "SportRecords\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T13:15:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\AdminWindow.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "SportRecords\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:26:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseModel.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\BaseModel.edmx",
+              "RelativeDocumentMoniker": "SportRecords\\BaseModel.edmx",
+              "ToolTip": "D:\\!is1-41 \u0410\u043B\u0444\u0435\u0440\u043E\u0432 \u041E\u0440\u0434\u043E\u044F\u043D \u041C\u0430\u043A\u0430\u0440\u043E\u0432\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\SportRecords\\SportRecords\\BaseModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-19T13:05:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SportRecords\\Properties\\Resources.resx",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\Properties\\Resources.resx",
+              "RelativeToolTip": "SportRecords\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-19T12:40:39.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\App.xaml",
+              "RelativeDocumentMoniker": "SportRecords\\App.xaml",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\App.xaml",
+              "RelativeToolTip": "SportRecords\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T12:43:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportRecords\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\4 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\SportRecords\\SportRecords\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SportRecords\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwEUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:16:30.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

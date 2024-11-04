@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище user30_dbModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ddAchievement">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="date" />
+    <Property Name="event" Type="varchar" MaxLength="80" />
+    <Property Name="id_athlete" Type="int" />
+    <Property Name="id_tournament" Type="int" />
+    <Property Name="id_achievementName" Type="int" />
+    <Property Name="id_achievementType" Type="int" />
+    <Property Name="id_sport" Type="int" />
+  </EntityType>
+  <EntityType Name="ddAchievementName">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ddAchievementType">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ddRole">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ddSport">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ddTeam">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="sport_name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ddTournament">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="start_date" Type="date" />
+    <Property Name="end_date" Type="date" />
+    <Property Name="location" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ddUser">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="50" />
+    <Property Name="lastname" Type="varchar" MaxLength="50" />
+    <Property Name="patronymic" Type="varchar" MaxLength="50" />
+    <Property Name="gender" Type="varchar" MaxLength="50" />
+    <Property Name="birth_date" Type="date" />
+    <Property Name="photoPath" Type="nvarchar" MaxLength="1000" />
+    <Property Name="id_team" Type="int" />
+    <Property Name="id_role" Type="int" />
+    <Property Name="login" Type="varchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_ddAchievement_ddAchievementName">
+    <End Role="ddAchievementName" Type="Self.ddAchievementName" Multiplicity="0..1" />
+    <End Role="ddAchievement" Type="Self.ddAchievement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddAchievementName">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddAchievement">
+        <PropertyRef Name="id_achievementName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddAchievement_ddAchievementType">
+    <End Role="ddAchievementType" Type="Self.ddAchievementType" Multiplicity="0..1" />
+    <End Role="ddAchievement" Type="Self.ddAchievement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddAchievementType">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddAchievement">
+        <PropertyRef Name="id_achievementType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddAchievement_ddSport">
+    <End Role="ddSport" Type="Self.ddSport" Multiplicity="0..1" />
+    <End Role="ddAchievement" Type="Self.ddAchievement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddSport">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddAchievement">
+        <PropertyRef Name="id_sport" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddAchievement_ddTournament">
+    <End Role="ddTournament" Type="Self.ddTournament" Multiplicity="0..1" />
+    <End Role="ddAchievement" Type="Self.ddAchievement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddTournament">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddAchievement">
+        <PropertyRef Name="id_tournament" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddAchievement_ddUser">
+    <End Role="ddUser" Type="Self.ddUser" Multiplicity="0..1" />
+    <End Role="ddAchievement" Type="Self.ddAchievement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddUser">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddAchievement">
+        <PropertyRef Name="id_athlete" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddAthlete_ddTeam">
+    <End Role="ddTeam" Type="Self.ddTeam" Multiplicity="0..1" />
+    <End Role="ddUser" Type="Self.ddUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddTeam">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddUser">
+        <PropertyRef Name="id_team" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ddUser_ddRole1">
+    <End Role="ddRole" Type="Self.ddRole" Multiplicity="0..1" />
+    <End Role="ddUser" Type="Self.ddUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ddRole">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ddUser">
+        <PropertyRef Name="id_role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище user30_dbModelContainer">
+    <EntitySet Name="ddAchievement" EntityType="Self.ddAchievement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddAchievementName" EntityType="Self.ddAchievementName" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddAchievementType" EntityType="Self.ddAchievementType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddRole" EntityType="Self.ddRole" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddSport" EntityType="Self.ddSport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddTeam" EntityType="Self.ddTeam" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddTournament" EntityType="Self.ddTournament" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ddUser" EntityType="Self.ddUser" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ddAchievement_ddAchievementName" Association="Self.FK_ddAchievement_ddAchievementName">
+      <End Role="ddAchievementName" EntitySet="ddAchievementName" />
+      <End Role="ddAchievement" EntitySet="ddAchievement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddAchievement_ddAchievementType" Association="Self.FK_ddAchievement_ddAchievementType">
+      <End Role="ddAchievementType" EntitySet="ddAchievementType" />
+      <End Role="ddAchievement" EntitySet="ddAchievement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddAchievement_ddSport" Association="Self.FK_ddAchievement_ddSport">
+      <End Role="ddSport" EntitySet="ddSport" />
+      <End Role="ddAchievement" EntitySet="ddAchievement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddAchievement_ddTournament" Association="Self.FK_ddAchievement_ddTournament">
+      <End Role="ddTournament" EntitySet="ddTournament" />
+      <End Role="ddAchievement" EntitySet="ddAchievement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddAchievement_ddUser" Association="Self.FK_ddAchievement_ddUser">
+      <End Role="ddUser" EntitySet="ddUser" />
+      <End Role="ddAchievement" EntitySet="ddAchievement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddAthlete_ddTeam" Association="Self.FK_ddAthlete_ddTeam">
+      <End Role="ddTeam" EntitySet="ddTeam" />
+      <End Role="ddUser" EntitySet="ddUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ddUser_ddRole1" Association="Self.FK_ddUser_ddRole1">
+      <End Role="ddRole" EntitySet="ddRole" />
+      <End Role="ddUser" EntitySet="ddUser" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

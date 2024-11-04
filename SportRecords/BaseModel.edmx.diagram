@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="646ff52d031e4040baa5de692e6e509e" Name="Diagram1">
+        <EntityTypeShape EntityType="user30_dbModel.ddAchievement" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddAchievementName" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddAchievementType" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddRole" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddSport" Width="1.5" PointX="3" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddTeam" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddTournament" Width="1.5" PointX="3" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="user30_dbModel.ddUser" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAchievement_ddAchievementName" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAchievement_ddAchievementType" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAchievement_ddSport" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAchievement_ddTournament" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAchievement_ddUser" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddUser_ddRole1" ManuallyRouted="false" />
+        <AssociationConnector Association="user30_dbModel.FK_ddAthlete_ddTeam" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

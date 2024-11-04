@@ -1,0 +1,195 @@
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.AssemblyReference.cache
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\MainWindow.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\App.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.cache
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.lref
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\SportRecords.exe.config
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\SportRecords.exe
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\SportRecords.pdb
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\MainWindow.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.g.resources
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.Properties.Resources.resources
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.GenerateResource.cache
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.CoreCompileInputs.cache
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.exe
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords.pdb
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\App.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\EntityFramework.dll
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.dll
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\EntityFramework.xml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.xml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\bin\Debug\ru\EntityFramework.resources.dll
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AdminWindow.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRecords_Content.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AdminWindow.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\SportRec.CB474D6B.Up2Date
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddUser.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddUser.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.exe.config
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.exe
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.pdb
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.dll
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.dll
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.xml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.xml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\bin\Debug\ru\EntityFramework.resources.dll
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.AssemblyReference.cache
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddUser.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AdminWindow.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\MainWindow.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\App.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_Content.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.cache
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.lref
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\App.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddUser.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AdminWindow.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\MainWindow.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.g.resources
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.Properties.Resources.resources
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.GenerateResource.cache
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.CopyComplete
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.exe
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.pdb
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddUserDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddUserDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievement.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievement.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTournament.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTournament.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTeam.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTeamDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTeam.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddTeamDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementType.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementType.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddSport.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddSportDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddSport.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddSportDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementName.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementName.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddRole.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddRoleDialog.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddRole.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AddRoleDialog.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\User.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\UserWindow.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\User.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\UserWindow.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.exe.config
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.exe
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\SportRecords.pdb
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.dll
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.dll
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.xml
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\EntityFramework.SqlServer.xml
+F:\4 курс\курсовой\SportRecords\SportRecords\bin\Debug\ru\EntityFramework.resources.dll
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.AssemblyReference.cache
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievement.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementName.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementType.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddRole.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddRoleDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddSport.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddSportDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTeam.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTeamDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTournament.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddUser.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddUserDialog.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AdminWindow.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\MainWindow.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\User.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\UserWindow.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\App.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_Content.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.cache
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords_MarkupCompile.lref
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\App.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievement.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementName.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementType.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddRole.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddRoleDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddSport.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddSportDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTeam.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTeamDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTournament.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddUser.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AddUserDialog.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AdminWindow.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\MainWindow.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\User.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\UserWindow.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.g.resources
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.Properties.Resources.resources
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.GenerateResource.cache
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.csproj.CoreCompileInputs.cache
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.exe
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRecords.pdb
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievement.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementName.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementType.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddRole.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddRoleDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddSport.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddSportDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTeam.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTeamDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTournament.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddUserDialog.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\Athlet.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\User.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\UserWindow.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievement.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementName.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementNameDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementType.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddAchievementTypeDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddRole.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddRoleDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddSport.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddSportDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTeam.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTeamDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTournament.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddTournamentDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AddUserDialog.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\User.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\UserWindow.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\Athlet.baml
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AthletProfile.g.cs
+D:\!is1-41 Алферов Ордоян Макаров\Курсовой проект\SportRecords\SportRecords\obj\Debug\AthletProfile.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\Athlet.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AthletProfile.g.cs
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\Athlet.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\AthletProfile.baml
+F:\4 курс\курсовой\SportRecords\SportRecords\obj\Debug\SportRec.CB474D6B.Up2Date
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\Athlet.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AthletProfile.g.cs
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\Athlet.baml
+C:\УЧЕБА\4 КУРС\курсовой\SportRecords\SportRecords\obj\Debug\AthletProfile.baml

@@ -1,0 +1,42 @@
+﻿<Window x:Class="SportRecords.AddTeamDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportRecords"
+        mc:Ignorable="d"
+       Title="Добавить/Редактировать команду" Height="400" Width="500" Background="#F5F5DC">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель с градиентом и логотипом -->
+        <Grid Grid.Row="0">
+            <Rectangle Height="80" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#BBDEFB" Offset="0.0" />
+                        <GradientStop Color="#4CAF50" Offset="1.0" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Image Source="Resources/Logo.png" Width="65" Height="65" Margin="15,10,0,10" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Label x:Name="TitleLabel" Content="Операция" Foreground="Black" FontSize="30" FontFamily="Century Gothic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+
+        <!-- Основная часть с полями ввода -->
+        <Label Grid.Row="1" Content="Название команды:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" x:Name="NameTextBox" Margin="120,5,0,5" Width="300" Height="30"/>
+
+        <Label Grid.Row="2" Content="Вид спорта:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" x:Name="SportNameTextBox" Margin="120,5,0,5" Width="300" Height="30"/>
+
+        <!-- Кнопка добавить -->
+        <Button Grid.Row="3" Content="Сохранить" FontSize="18" FontFamily="Century Gothic" Width="120" Height="40" HorizontalAlignment="Right" Margin="0,20,0,0" Click="AddButton_Click"/>
+    </Grid>
+</Window>

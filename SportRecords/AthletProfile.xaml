@@ -1,0 +1,79 @@
+﻿<Window x:Class="SportRecords.AthletProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportRecords"
+        mc:Ignorable="d"
+                 Title="Личный кабинет" Height="450" Width="700" Background="#F5F5DC">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель с градиентом -->
+        <Rectangle Grid.Row="0" Height="80" VerticalAlignment="Center">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#BBDEFB" Offset="0.0" />
+                    <GradientStop Color="#4CAF50" Offset="1.0" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <!-- Логотип и заголовок -->
+        <Image Source="Resources/Logo.png" Width="60" Height="60" Margin="15,10,0,10" HorizontalAlignment="Left"/>
+        <Label Content="Личный кабинет" Foreground="Black" FontSize="30" FontFamily="Century Gothic" 
+               HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0"/>
+
+        <!-- Блок данных пользователя -->
+        <Grid Grid.Row="1" Margin="30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Отображение ФИО -->
+            <TextBlock Text="ФИО:" FontSize="20" FontFamily="Century Gothic" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+            <Label x:Name="FullNameLabel" FontSize="20" FontFamily="Century Gothic" Foreground="Black" 
+                   Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"/>
+
+            <!-- Поле для логина -->
+            <TextBlock Text="Логин:" FontSize="20" FontFamily="Century Gothic" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+            <TextBox x:Name="LoginTextBox" FontSize="20" FontFamily="Century Gothic" IsReadOnly="True" 
+                     Grid.Row="1" Grid.Column="1" Margin="5" Background="White" Foreground="Black"/>
+
+            <!-- Поля для смены пароля -->
+            <TextBlock Text="Текущий пароль:" FontSize="20" FontFamily="Century Gothic" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="PasswordBox" FontSize="20" FontFamily="Century Gothic" 
+                         Grid.Row="2" Grid.Column="1" Margin="5" Background="White" Foreground="Black"/>
+
+            <TextBlock Text="Новый пароль:" FontSize="20" FontFamily="Century Gothic" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="NewPasswordBox" FontSize="20" FontFamily="Century Gothic" 
+                         Grid.Row="3" Grid.Column="1" Margin="5" Background="White" Foreground="Black"/>
+
+            <TextBlock Text="Подтвердите пароль:" FontSize="20" FontFamily="Century Gothic" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="ConfirmPasswordBox" FontSize="20" FontFamily="Century Gothic" 
+                         Grid.Row="4" Grid.Column="1" Margin="5" Background="White" Foreground="Black"/>
+        </Grid>
+
+        <!-- Кнопки управления -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="SaveButton" Click="SaveButton_Click" Content="Сохранить" FontSize="20" FontFamily="Century Gothic" Width="150" Height="50" 
+                    Margin="10" />
+
+            <Button x:Name="BackButton" Click="BackButton_Click" Content="Назад" FontSize="20" FontFamily="Century Gothic" Width="150" Height="50" 
+                    Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
